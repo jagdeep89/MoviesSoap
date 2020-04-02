@@ -1,0 +1,6 @@
+com\mycompany\moviessoap\models\MoviesType.class
+com\mycompany\moviessoap\models\MovieType.class
+com\mycompany\moviessoap\resources\MovieDAO.class
+com\mycompany\moviessoap\resources\JavaEE8Resource.class
+com\mycompany\moviessoap\JAXRSConfiguration.class
+com\mycompany\moviessoap\MoviesWebService.class
